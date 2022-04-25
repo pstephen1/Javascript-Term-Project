@@ -1,0 +1,3 @@
+This site is to be my submission for the term project for the CIT 190 - Javascript class. Its purpose is to display competence in the HTML5, CSS, Javascript, and jquery languages through the publication of several games written in these languages.
+
+© 2022 Stephen Pickard. Reproduction of this page and the contents within are strictly prohibited. This page was created for academic purposes and should not be copied or stolen.
